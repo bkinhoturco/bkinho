@@ -1,2 +1,2 @@
 # bkinho
-hacker
+git config --global user.name "Bkinhoturco"
